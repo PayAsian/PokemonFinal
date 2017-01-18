@@ -42,8 +42,6 @@ public class PokemonController
 		return getPokedex();
 	}
 	
-	
-	
 	public PokemonFrame getBaseFrame()
 	{
 		return getBaseFrame();
